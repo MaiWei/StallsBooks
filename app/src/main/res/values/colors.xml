@@ -3,4 +3,6 @@
     <color name="colorPrimary">#1DA1F2</color>
     <color name="colorPrimaryDark">#1DA1F2</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="colorTabUnelectedBg">#FFFFFF</color>
+    <color name="colorBg">#F1F0F2</color>
 </resources>

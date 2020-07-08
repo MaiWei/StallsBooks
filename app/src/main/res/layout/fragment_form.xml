@@ -3,11 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.sales.PagerFragment.DayFragment">
+    tools:context=".ui.sales.PagerFragment.FormFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
-        android:id="@+id/text_day"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="@string/hello_blank_fragment" />
